@@ -3,13 +3,13 @@
 Hey folks! 👋 ![](https://komarev.com/ghpvc/?username=SachinSahu431&color=blue&label=PROFILE+VIEWS)
 - 👋 Hi, I’m SACHIN KUMAR SAHU  ( @SachinSahu431 )
 - 🚀 I find technology very interesting!
-- 🌱 I’m currently learning webDev.
-- ⚡ I’m looking to collaborate on appDev.
-- 📫 How to reach me ? Coming soon...👀
+- 🌱 I’m currently learning Django.
+- ⚡ I’m looking to collaborate on any interesting project.
 
 <!---
 SachinSahu431/SachinSahu431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 📫 How to reach me ? Coming soon...👀
 --->
 
 
