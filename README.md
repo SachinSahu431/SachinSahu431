@@ -1,4 +1,6 @@
- 👋 Hey folks! 
+
+### <img src="https://github.com/SachinSahu431/SachinSahu431/blob/assets/Hi.gif" width="29px"> **Hey folks!** 
+
 <!---
 ![](https://komarev.com/ghpvc/?username=SachinSahu431&color=blue&label=PROFILE+VIEWS)
  
@@ -19,3 +21,4 @@ You can click the Preview link to take a look at your changes.
 [![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinSahu431&show_icons=true&count_private=true)](https://github.com/SachinSahu431)
 
 ![](https://komarev.com/ghpvc/?username=SachinSahu431&color=blue&label=PROFILE+VIEWS)
+
