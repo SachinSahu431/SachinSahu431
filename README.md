@@ -2,9 +2,10 @@
 <h2 align="center"> <img src="https://github.com/SachinSahu431/SachinSahu431/blob/assets/Hi.gif" width="29px"> <b>Hey folks! I'm Sachin Kumar Sahu ( @SachinSahu431 )</b>  </h2>
 <hr>
 
-<p align="center">
+<!---<p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=SachinSahu431&color=blue&label=PROFILE+VIEWS" link="https://github.com/SachinSahu431"> <img align="center" src="https://img.shields.io/github/followers/SachinSahu431?label=Follow&style=social" link="https://github.com/SachinSahu431"> <img align="center" src="https://img.shields.io/github/stars/SachinSahu431?style=social" link="https://github.com/SachinSahu431">
 </p>
+--->
 <!--- 
 <img align="right" height="250" width="375" alt="" src="" />
 ![](https://komarev.com/ghpvc/?username=SachinSahu431&color=blue&label=PROFILE+VIEWS)
