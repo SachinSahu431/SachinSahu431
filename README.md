@@ -27,6 +27,13 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SachinSahu431&show_icons=true&theme=radical&count_private=true" link="https://github.com/SachinSahu431">
 <hr> </h2>
 
+<center>
+<h2 align="center">Git Hub Stats</h2>
+<p align="center"><img src="https://metrics.lecoq.io/SachinSahu431" alt="Github Metrics"></p>
+</center>
+
+<hr> 
+
 <p align="center">
 <!--- 
     <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" link="https://github.com/SachinSahu431">
