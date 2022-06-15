@@ -1,5 +1,6 @@
 
-<h2 align="center"> <img src="https://github.com/SachinSahu431/SachinSahu431/blob/assets/Hi.gif" width="29px"> <b>Hey folks! I'm Sachin Kumar Sahu ( @SachinSahu431 )</b>  </h2>
+<!-- <img src="https://github.com/SachinSahu431/SachinSahu431/blob/assets/Hi.gif"width="2px">  -->
+<h2 align="center"> <b>Hey folks! I'm Sachin Kumar Sahu ( @SachinSahu431 )</b>  </h2>
 <hr>
 
 <!---<p align="center">
